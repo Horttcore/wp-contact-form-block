@@ -1,0 +1,16 @@
+{
+  "name": "horttcore/wp-contact-form-block",
+  "description": "A Gutenberg contact form skeleton block",
+  "type": "wordpress-plugin",
+  "autoload": {
+    "psr-4": {
+      "Horttcore\\ContactFormBlock\\": "src/classes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ralf Hortt",
+      "email": "me@horttcore.de"
+    }
+  ]
+}
